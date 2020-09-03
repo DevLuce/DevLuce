@@ -1,17 +1,11 @@
-### 👋👋👋
+# :man_technologist: DevLuce(Wonhyuk Choi)
 
-<div align=center>
+
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevluce)](https://hits.seeyoufarm.com)
-  
-</div>
-
-<div align=center>
-  
   [![Github Badge](https://img.shields.io/badge/-DevLuce-%23181717?logo=github&link=https://github.com/DevLuce)](https://github.com/DevLuce)
+  [![LinkedIn Badge](https://img.shields.io/badge/-최원혁-0077B5?logo=linkedin&link=https://www.linkedin.com/in/%EC%9B%90%ED%98%81-%EC%B5%9C-3178a61a7/)](https://www.linkedin.com/in/%EC%9B%90%ED%98%81-%EC%B5%9C-3178a61a7/)
   [![Gmail Badge](https://img.shields.io/badge/whchoi000-d14836?logo=Gmail&logoColor=white&link=mailto:whchoi000@gmail.com)](mailto:whchoi000@gmail.com)
-  
-</div>
 
 
 
