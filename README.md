@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Wonhyuk Choi
 #### I am a passionate student developer
 
-Skills: Flutter / Express.js / React.js
+Skills: Flutter / Django / Express.js
 
 - 🌱 I’m currently learning Deep Learning 
 
