@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Wonhyuk Choi
 #### I am a passionate student developer
 
-Skills: Flutter / Django / Express.js
+Skills: Flutter / Django / Node.js 
 
-- 🌱 I’m currently learning Deep Learning 
+- 🌱 I’m currently learning Backend.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/devluce)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/wonhyuk-choi-3178a61a7/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://devluce.tistory.com/)  
