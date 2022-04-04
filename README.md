@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Wonhyuk Choi
 #### I am a passionate student developer
 
-Skills: Flutter / Django / Swift iOS / Node.js 
+Skills: Flutter / Django / iOS / Node.js 
 
 - 🌱 I’m currently learning Swift iOS.
 
